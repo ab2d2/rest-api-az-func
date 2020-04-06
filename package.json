@@ -1,0 +1,13 @@
+{
+  "name": "node.js-rest-api-az-funcs",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^25.2.7"
+  }
+}
